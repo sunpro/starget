@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_42d5809e76fa6d525d5d75e8ff7a46b84abad124.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f2877a1a234a41f7fac4805508cd936ed6c5450">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9636eb9e6ecfd9623bdf09f3a15c2f5e829afdcb.jar" />
+    </item>
+    <item
+        jar="D:\programfiles\androidsdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_dc7f0d2c3ca5719b8865b797fb7d16a45b8183ec.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_3200e4c564747f70bb3914fea664299551739f00.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_0bc47a73dcca666ea4d71bcbf9d52036031037ce.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_76fa8ce1c6e87168fd9cb9763182ea00416ba434.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e88e38ef755c7c627f997d70aae301c5d980845">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\instant-run_d6fdbe0e6c5a711540a175aedf0003b39364a7b8.jar" />
+    </item>
+    <item
+        jar="E:\code\An\STarget\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="E:\code\An\STarget\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_f04281461d1828175a05398546ac118f2de6ef6a.jar" />
+    </item>
+
+</items>
